@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^6.13.5"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
